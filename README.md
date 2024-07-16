@@ -13,6 +13,10 @@
 
 ## Overview of the project
 
+# output
+
+![Screenshot 2024-07-16 203016](https://github.com/user-attachments/assets/6a01009f-aa5d-47f0-a40b-98fd828bac8a)
+
 ### Project: PYTHON PROGRAMMING INTERNSHIP TASKS 
 
 ### Objective
